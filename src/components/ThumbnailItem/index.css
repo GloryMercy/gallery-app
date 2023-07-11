@@ -1,0 +1,18 @@
+.image-item {
+  margin-right: 16px;
+  margin-bottom: 16px;
+}
+
+.active-img {
+  opacity: 1;
+}
+.thumbnail-image {
+  opacity: 0.5;
+}
+.img-btn {
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  padding: 0;
+}
